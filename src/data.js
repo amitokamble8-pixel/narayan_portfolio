@@ -27,7 +27,7 @@ export const PROFILE = {
     instagram: "",
     twitter: "",
   },
-  cv: "/placeholder.pdf", // "↓ Download Resume" button target
+  cv: "", // "↓ Download Resume" button target
   photo: "/placeholder-profile.png", // profile photo
   aboutPhoto: "/placeholder-about.png", // about page photo
 };
