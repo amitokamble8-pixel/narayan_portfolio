@@ -28,8 +28,8 @@ export const PROFILE = {
     twitter: "",
   },
   cv: "", // "↓ Download Resume" button target
-  photo: "/placeholder-profile.png", // profile photo
-  aboutPhoto: "/placeholder-about.png", // about page photo
+  photo: "", // profile photo
+  aboutPhoto: "", // about page photo
 };
 
 export const NAV = [
